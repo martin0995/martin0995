@@ -4,11 +4,11 @@
 ### 📫 Contact
 
 - Email: **martin.hofmann95@gmail.com**
-- LinkedIn: <a href="https://linkedin.com/in/marhofmann" target="blank"> /marhofmann </a>
-- Instagram: <a href="https://www.instagram.com/martinhofmann09/" target="blank"> /martinhofmann09 </a>
+- LinkedIn: <a href="https://linkedin.com/in/marhofmann" target="_blank"> /marhofmann </a>
+- Instagram: <a href="https://www.instagram.com/martinhofmann09/" target="_blank"> /martinhofmann09 </a>
 
 ### 🌐 My Portfolio
-<a href="https://martinhofmann.vercel.app/" target="blank"> Check out my portfolio! </a>
+<a href="https://martinhofmann.vercel.app/" target="_blank"> Check out my portfolio! </a>
 
 ### 🧰 Languages, Tools, Frameworks
 
