@@ -7,6 +7,9 @@
 - LinkedIn: <a href="https://linkedin.com/in/marhofmann" target="blank"> /marhofmann </a>
 - Instagram: <a href="https://www.instagram.com/martinhofmann09/" target="blank"> /martinhofmann09 </a>
 
+### 🌐 My Portfolio
+<a href="https://martinhofmann.vercel.app/" target="blank"> Check out my portfolio! </a>
+
 ### 🧰 Languages, Tools, Frameworks
 
 <table align="center">
