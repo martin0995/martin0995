@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Martin!</h1>
-<h2 align="center"> (Full Stack Developer / Economist)</h2>
+<h2 align="center"> Software Developer / Economist</h2>
    
 ### 📫 Contact
 
@@ -8,7 +8,7 @@
 - Instagram: <a href="https://www.instagram.com/martinhofmann09/" target="_blank"> /martinhofmann09 </a>
 
 ### 🌐 My Portfolio
-<a href="https://martinhofmann.vercel.app/" target="_blank"> Check out my portfolio! </a>
+<a href="https://martinhofmann.vercel.app/" target="_blank"> Check out my portfolio. </a>
 
 ### 🧰 Languages, Tools, Frameworks
 
