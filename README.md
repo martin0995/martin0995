@@ -1,59 +1,43 @@
-<h1 align="center">Hi, I'm Martin!</h1>
-<h2 align="center"> Software Developer / Economist</h2>
-   
-### 📫 Contact
+<h2 align="center"> Software Developer | Economist | Blockchain</h2>
+
+<h3> Hi everyone! </h3>
+<ul>
+    <li>I am currently working as a Blockchain Developer, Front-end Developer, and DeFi enthusiast.</li>
+    <li>With a background in economics, I previously worked as an economist and taught Microeconomics at the University of Buenos Aires.</li>
+    <li>Passionate about learning new technologies, I am currently exploring Rust.</li>
+    <li>I embody a fusion of economics and decentralized technologies, aiming to contribute to a better and more inclusive world.</li>
+    <li>Always open to contributing to exciting new projects!</li>
+</ul>
+
+<h3> 📫 Contact </h3>
 
 - Email: **martin.hofmann95@gmail.com**
 - LinkedIn: <a href="https://linkedin.com/in/marhofmann" target="_blank"> /marhofmann </a>
-- Instagram: <a href="https://www.instagram.com/martinhofmann09/" target="_blank"> /martinhofmann09 </a>
 
-### 🌐 My Portfolio
-<a href="https://martinhofmann.vercel.app/" target="_blank"> Check out my portfolio. </a>
+ <h3> 🌐 Projects </h3>
+<ul>
+   <li>
+      <a href="https://martinhofmann.vercel.app/" target="_blank"> Check out my portfolio. </a>
+   </li>
+</ul>
 
-### 🧰 Languages, Tools, Frameworks
+<h3> 🧰 Languages, Tools, Frameworks </h3>
 
-<table align="center">
-<tr>
-<td><img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /></td>
-<td>Docker</td>
-<td><img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>
-<td>JavaScript</td>
-<td><img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></td>
-<td>HTML5</td>
-</tr>
-<tr>
-<td><img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
-<td>React</td>
-<td><img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></td>
-<td>CSS3</td>
-<td><img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
-<td>Sass</td>
-</tr>
-<tr>
-<td><img align="left" alt="Redux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></td>
-<td>Redux</td>
-<td><img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
-<td>NodeJs</td>
-<td><img align="left" alt="Express" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/99204877/207951864-61d16bf3-b546-42ea-87ba-aa69c4ced3c2.jpg" /></td>
-<td>Express</td>
-</tr>
-<tr>
-<td><img align="left" alt="MsServer" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/99204877/208532565-77e4d918-3264-4e34-aa3a-f43b5f954850.png" /></td>
-<td>Next</td>
-<td><img align="left" alt="PostgresSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></td>
-<td>PostgreSQL</td>
-<td><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /></td>
-<td>MySQL</td>
-</tr>
-<tr>
-<td><img align="left" alt="MsServer" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></td>
-<td>Postman</td>
-<td><img align="left" alt="PostgresSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-<td>Python</td>
-<td><img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td>
-<td>Bootstrap</td>
-</tr>
-</table>
+[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
+[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
+[![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 <br />
 
