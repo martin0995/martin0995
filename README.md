@@ -4,7 +4,7 @@
 <ul>
     <li>I am currently working as a Blockchain Developer, Front-end Developer, and DeFi enthusiast.</li>
     <li>With a background in economics, I previously worked as an economist and taught Microeconomics at the University of Buenos Aires.</li>
-    <li>Passionate about learning new technologies, I am currently exploring Rust.</li>
+    <li>Passionate about learning new technologies, I recently graduated from Polkadot Blockchain Accademy with its focus mainly in Rust.</li>
     <li>I embody a fusion of economics and decentralized technologies, aiming to contribute to a better and more inclusive world.</li>
     <li>Always open to contributing to exciting new projects!</li>
 </ul>
