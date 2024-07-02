@@ -4,7 +4,7 @@
 <ul>
     <li>I am currently working as a Blockchain Developer, Front-end Developer, and DeFi enthusiast.</li>
     <li>With a background in economics, I previously worked as an economist and taught Microeconomics at the University of Buenos Aires.</li>
-    <li>Passionate about learning new technologies, I recently graduated from Polkadot Blockchain Accademy with its focus mainly in Rust.</li>
+    <li>I recently graduated from <strong>Polkadot Blockchain Accademy</strong> where I explored the depths of Rust applied to blockchain.</li>
     <li>I embody a fusion of economics and decentralized technologies, aiming to contribute to a better and more inclusive world.</li>
     <li>Always open to contributing to exciting new projects!</li>
 </ul>
@@ -13,13 +13,6 @@
 
 - Email: **martin.hofmann95@gmail.com**
 - LinkedIn: <a href="https://linkedin.com/in/marhofmann" target="_blank"> /marhofmann </a>
-
- <h3> 🌐 Projects </h3>
-<ul>
-   <li>
-      <a href="https://martinhofmann.vercel.app/" target="_blank"> Check out my portfolio. </a>
-   </li>
-</ul>
 
 <h3> 🧰 Languages, Tools, Frameworks </h3>
 
@@ -38,6 +31,7 @@
 [![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&style=for-the-badge)]()
 
 <br />
 
