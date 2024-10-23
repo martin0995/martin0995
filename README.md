@@ -9,11 +9,6 @@
     <li>Always open to contributing to exciting new projects!</li>
 </ul>
 
-<h3> 📫 Contact </h3>
-
-- Email: **martin.hofmann95@gmail.com**
-- LinkedIn: <a href="https://linkedin.com/in/marhofmann" target="_blank"> /marhofmann </a>
-
 <h3> 🧰 Languages, Tools, Frameworks </h3>
 
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
