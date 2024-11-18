@@ -2,9 +2,9 @@
 
 <h3> Hi everyone! </h3>
 <ul>
-    <li>Developer Relations Engineer.</li>
-    <li>Graduated from <strong>Polkadot Blockchain Accademy</strong>, where I explored the depths of Rust applied to blockchain.</li>
-    <li>With a background in economics, I previously worked as an economist at <strong>S&P Global</strong> and taught Microeconomics at the <strong>University of Buenos Aires</strong>.</li>
+    <li>Developer Relations Engineer</li>
+    <li>Graduated from <strong>Polkadot Blockchain Accademy</strong>, where I explored the depths of Rust applied to blockchain</li>
+    <li>With a background in economics, I previously worked as an economist at <strong>S&P Global</strong> and taught Microeconomics at the <strong>University of Buenos Aires</strong></li>
     <li>I combine economics and decentralized technologies to contribute to a better and more inclusive world.</li>
     <li>Always open to contributing to new projects!</li>
 </ul>
